@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FRANCISCO26062004
 - 👀 I’m interested in learning more about programming and computer science
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning C language, HTML and CSS
 - 💞️ I’m looking to collaborate on Formula 1
 - 📫 How to reach me instagram: https://www.instagram.com/joannafrancisco9/
 - 😄 Pronouns: Joana Lider
